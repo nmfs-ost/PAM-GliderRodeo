@@ -4,10 +4,10 @@ project:
 website: 
   page-navigation: true
   title: "NOAA Fisheries PAM-Glider Rodeo" 
-  # site-url: "https://sael-swfsc.github.io/SAEL-lab-manual" 
-  # repo-url: "https://github.com/SAEL-SWFSC/SAEL-lab-manual"
+  site-url: "https://nmfs-pam-glider.github.io/GliderRodeo/"
+  repo-url: "https://github.com/NMFS-PAM-Glider/GliderRodeo"
   repo-actions: [edit, source, issue]
-  favicon: images/favicon.ico
+  favicon: content/figs/favicon.ico
   search: true
   
   
@@ -18,7 +18,7 @@ website:
   sidebar:
     background: "#D9E3E4"
     logo: "https://upload.wikimedia.org/wikipedia/commons/7/79/NOAA_logo.svg"
-    favicon: images/favicon.ico
+    favicon: content/figs/favicon.ico
     pinned: true
     align: center
     tools: 
@@ -36,14 +36,15 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: Survey.qmd
-        text: Survey
-      - href: Gliders.qmd
-        text: Gliders
-      - href: Metrics.qmd
-        text: Metrics
-      - href: contactUs.qmd
-        text: Contact Us
+        contents:
+          - href: content/Survey.qmd
+            text: Survey
+          - href: content/Gliders.qmd
+            text: Gliders
+          - href: content/Metrics.qmd
+            text: Metrics
+          - href: content/contactUs.qmd
+            text: Contact Us
 
 
   
@@ -57,7 +58,7 @@ format:
     toc: true
 
  
-# 
+
 # filters:
 #   - include-files.lua
 #   - quarto
