@@ -2,13 +2,13 @@
 
 Repository associated with the NMFS PAM-Glider "Glider Rodeo", a collaborative in-water investigation into contemporary PAM-glider systems
 
-### **Link to Glider** Rodeo Website[coming soon!]
+### **Link to Glider** Rodeo Website\[coming soon!\]
 
-### **How to Cite** [TBD]
+### **How to Cite** \[TBD\]
 
 ### **Contents**
 
-This directory contains [*under construction!*]:
+This directory contains \[*under construction!*\]:
 
 \- 📁 content: chapters/sections for website, reports
 

@@ -1,13 +1,8 @@
----
-title: "NMFS PAM Gliders"
-subtitle: "Field Study of Passive Acoustic Gliders 2025/26"
-page-layout: full
-toc: false
----
 
-![](content/figs/GliderRodeoText.JPG){width="328"}
 
-![](content/figs/GliderRodeo.png){width="230"}
+![](content/figs/GliderRodeoText.JPG){width="204" height="51"}
+
+![](content/figs/GliderRodeo.png){width="123" height="85"}
 
 **NOAA Fisheries' Passive Acoustic Underwater Glider Field Comparison**
 
