@@ -1,4 +1,4 @@
-# ![](content/figs/GliderRodeoText.JPG){width="412"}![](content/figs/GliderRodeo.png){width="254"}
+# ![](content/figs/GliderRodeoText.JPG)![](content/figs/GliderRodeo.png)
 
 Repository associated with the NMFS PAM-Glider "Glider Rodeo", a collaborative in-water investigation into contemporary PAM-glider systems
 
