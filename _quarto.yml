@@ -23,11 +23,11 @@ website:
     align: center
     tools: 
       - icon: globe
-        href: https://www.fisheries.noaa.gov/west-coast/science-data/southwest-acoustic-ecology-lab
-        text: "Southwest Acoustic Ecology Lab, SWFSC"
+        href: https://nmfs-pam-glider.github.io/GliderRodeo/
+        text: "NMFS PAM-Glider Rodeo"
       - icon: github
-        href: https://github.com/SAEL-SWFSC
-        text: "SAEL Github"
+        href: https://github.com/NMFS-PAM-Glider/GliderRodeo
+        text: "PAM-Glider Rodeo Github"
 
     style: "docked"
     search: true
