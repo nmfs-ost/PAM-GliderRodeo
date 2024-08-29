@@ -1,0 +1,24 @@
+---
+title: Survey {#sec-Survey}
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+NMFS is pursuing tests of several passive acoustic equipped underwater
+gliders as part of its Uncrewed Systems Strategic Initiative, funded by
+the Inflation Reduction Act.
+
+-   NMFS will be carrying out performance testing across glider systems
+    during two 2-week ‘glider rodeos’ planned for the U.S. west coast
+    and Hawaii in 2025-26.
+
+-   NMFS-funded testing will include Slocum, Seaglider, OceanScout
+    (Hefring) and SeaExplorer (Alseamar) platforms with DMONS2, WISPR,
+    and Alseamar’s acoustic acquisition systems.
+
+-   A pre-designed survey path will provide for resampling of the same
+    area by each glider platform over the 2 week effort. Glider
+    performance and acoustic detection metrics will be measured for each
+    system to enable comparison and inform future glider acquisitions
+    and use by NMFS.
