@@ -1,5 +1,5 @@
 ---
-title: Contact Us {#sec-contactUs}
+title: Contact Us 
 ---
 
 Under Construction
@@ -8,11 +8,16 @@ Under Construction
 
 **Do you have an acoustic glider system you’d like to test as part of this effort?**
 
+
 *We cannot currently offer funding to participate, but may be able to provide logistic support- lab space for preparation, vessels for glider deployment and/or recoveries, if associated with our efforts.*
 
-**Do you have suggestions for metrics that would help evaluate PAM-equipped glider options?**
 
+
+**Do you have suggestions for metrics that would help evaluate PAM-equipped glider options?**
 *In addition to comparing general system and sampling specifications, we have planned to assess a diverse set of survey, data quality, and acoustic detection metrics across each system*
+Please follow this link to fill out our Google Form to include additional metrics (you can fill out form as many times as you like): [Metrics Google Form Link](https://forms.gle/tYZY8YjMZH11QhiA6){target="_blank"}
+
+
 
 **Do you have data from other regions or systems that could contribute to our hardware comparison?**
 

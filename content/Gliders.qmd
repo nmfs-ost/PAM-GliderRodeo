@@ -1,5 +1,5 @@
 ---
-title: Gliders {#sec-Gliders}
+title: Gliders 
 ---
 
 # Gliders

@@ -1,12 +1,12 @@
 ---
-title: Metrics {#sec-Metrics}
+title: Metrics 
 ---
 
 During the glider rodeo, we will identify and define a series of metrics to be calculated for each platform. These metrics will provide a means of comparison to identify strengths and limitations, as well as ranges of performance. The metrics include (1) Operational metrics, (2) Passive acoustic metrics, and (3) Resource metrics.
 
 A preliminary set of metrics for each category are provided below. These are preliminary, and we welcome alternative definitions or calculations for each metric, as well as alternative metrics to consider.
 
-If you have metrics you would like to recommend, please submit this via this [google form](https://forms.gle/tYZY8YjMZH11QhiA6) (related references and citations are appreciated).
+If you have metrics you would like to recommend, please submit this via this [google form](https://forms.gle/tYZY8YjMZH11QhiA6){target="_blank"} (related references and citations are appreciated).
 
 \[Insert Table of Survey Metrics\]
 
