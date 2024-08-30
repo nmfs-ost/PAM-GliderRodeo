@@ -59,7 +59,7 @@ format:
 
  
 
-# filters:
-#   - include-files.lua
-#   - quarto
+filters:
+  - include-files.lua
+  - quarto
 
