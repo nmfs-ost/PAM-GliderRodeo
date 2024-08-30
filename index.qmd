@@ -1,4 +1,6 @@
 ---
+title: "PAM-Glider Rodeo"
+subtitle: "Field Survey of PAM-equipped Gliders"
 page-layout: full
 toc: false
 ---
