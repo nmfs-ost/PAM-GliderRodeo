@@ -1,5 +1,5 @@
 ---
-title: Survey {#sec-Survey}
+title: Survey 
 editor: 
   markdown: 
     wrap: 72
