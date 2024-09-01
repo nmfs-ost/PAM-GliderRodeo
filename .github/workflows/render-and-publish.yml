@@ -34,6 +34,6 @@ jobs:
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           path: content
-          target: gh-pages
+          target: main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # this secret is always available for github actions
