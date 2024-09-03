@@ -5,7 +5,6 @@
 
 **NOAA Fisheries' Passive Acoustic Underwater Glider Field Comparison**
 
-
 As part of a strategic goal to invest in passive acoustic monitoring using gliders, NOAA Fisheries is pursuing field tests of several underwater gliders equipped with passive acoustic monitoring (PAM) systems during two 2-week ‘glider rodeos’ planned for the U.S. west coast and Hawaii in 2025-26.
 
 A pre-designed survey path will provide for resampling of the same area by each glider over each 2-week effort to maximize spatial and temporal overlap. Glider performance and acoustic recording and detection metrics will be measured for each system to enable comparison and inform future glider acquisitions and use by NOAA Fisheries.
