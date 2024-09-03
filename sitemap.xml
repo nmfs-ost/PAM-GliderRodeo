@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://nmfs-pam-glider.github.io/GliderRodeo/content/Metrics.html</loc>
+    <lastmod>2024-09-03T16:07:16.322Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-pam-glider.github.io/GliderRodeo/content/Survey.html</loc>
+    <lastmod>2024-09-03T16:07:16.322Z</lastmod>
+  </url>
+  <url>
     <loc>https://nmfs-pam-glider.github.io/GliderRodeo/index.html</loc>
-    <lastmod>2024-09-03T15:50:05.897Z</lastmod>
+    <lastmod>2024-09-03T16:07:16.338Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-pam-glider.github.io/GliderRodeo/Gliders.html</loc>
-    <lastmod>2024-09-03T15:50:05.889Z</lastmod>
+    <loc>https://nmfs-pam-glider.github.io/GliderRodeo/content/contactUs.html</loc>
+    <lastmod>2024-09-03T16:07:16.330Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-pam-glider.github.io/GliderRodeo/contactUs.html</loc>
-    <lastmod>2024-09-03T15:50:05.889Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-pam-glider.github.io/GliderRodeo/Survey.html</loc>
-    <lastmod>2024-09-03T15:50:05.889Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-pam-glider.github.io/GliderRodeo/Metrics.html</loc>
-    <lastmod>2024-09-03T15:50:05.889Z</lastmod>
+    <loc>https://nmfs-pam-glider.github.io/GliderRodeo/content/Gliders.html</loc>
+    <lastmod>2024-09-03T16:07:16.322Z</lastmod>
   </url>
 </urlset>
