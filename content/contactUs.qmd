@@ -15,7 +15,7 @@ Under Construction
 
 **Do you have suggestions for metrics that would help evaluate PAM-equipped glider options?**
 *In addition to comparing general system and sampling specifications, we have planned to assess a diverse set of survey, data quality, and acoustic detection metrics across each system*
-Please follow this link to fill out our Google Form to include additional metrics (you can fill out form as many times as you like): [Metrics Google Form Link](https://forms.gle/tYZY8YjMZH11QhiA6){target="_blank"}
+Please follow this link to fill out our Google Form to include additional metrics (you can fill out form as many times as you like): [Metrics Google Form Link](https://forms.gle/Qz2uxaKLdM2iDMYY8){target="_blank"}
 
 
 
