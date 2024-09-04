@@ -1,5 +1,16 @@
 [
   {
+    "objectID": "content/contactUs.html",
+    "href": "content/contactUs.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Under Construction\nInstructions for submitting submitting an inquiry will be added soon! –&gt; Give instructions for submitting an inquiry through the Github Issues\nDo you have an acoustic glider system you’d like to test as part of this effort?\nWe cannot currently offer funding to participate, but may be able to provide logistic support- lab space for preparation, vessels for glider deployment and/or recoveries, if associated with our efforts.\nDo you have suggestions for metrics that would help evaluate PAM-equipped glider options? In addition to comparing general system and sampling specifications, we have planned to assess a diverse set of survey, data quality, and acoustic detection metrics across each system Please follow this link to fill out our Google Form to include additional metrics (you can fill out form as many times as you like): Metrics Google Form Link\nDo you have data from other regions or systems that could contribute to our hardware comparison?\nAlthough we are focusing our field efforts on two regions, we are interested in collaborating to include data from other systems and areas if you have data you are willing to share.",
+    "crumbs": [
+      "Home",
+      "Contact Us"
+    ]
+  },
+  {
     "objectID": "content/Metrics.html",
     "href": "content/Metrics.html",
     "title": "Metrics",
@@ -11,17 +22,6 @@
     ]
   },
   {
-    "objectID": "content/Survey.html",
-    "href": "content/Survey.html",
-    "title": "Survey",
-    "section": "",
-    "text": "NMFS is pursuing tests of several passive acoustic equipped underwater gliders as part of its Uncrewed Systems Strategic Initiative, funded by the Inflation Reduction Act.\n\nNMFS will be carrying out performance testing across glider systems during two 2-week ‘glider rodeos’ planned for the U.S. west coast and Hawaii in 2025-26.\nNMFS-funded testing will include Slocum, Seaglider, OceanScout (Hefring) and SeaExplorer (Alseamar) platforms with DMONS2, WISPR, and Alseamar’s acoustic acquisition systems.\nA pre-designed survey path will provide for resampling of the same area by each glider platform over the 2 week effort. Glider performance and acoustic detection metrics will be measured for each system to enable comparison and inform future glider acquisitions and use by NMFS.",
-    "crumbs": [
-      "Home",
-      "Survey"
-    ]
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "NOAA Fisheries PAM-Glider Rodeo",
@@ -29,17 +29,6 @@
     "text": "NOAA Fisheries’ Passive Acoustic Underwater Glider Field Comparison\nAs part of a strategic goal to invest in passive acoustic monitoring using gliders, NOAA Fisheries is pursuing field tests of several underwater gliders equipped with passive acoustic monitoring (PAM) systems during two 2-week ‘glider rodeos’ planned for the U.S. west coast and Hawaii in 2025-26.\nA pre-designed survey path will provide for resampling of the same area by each glider over each 2-week effort to maximize spatial and temporal overlap. Glider performance and acoustic recording and detection metrics will be measured for each system to enable comparison and inform future glider acquisitions and use by NOAA Fisheries.\nThis is a unique opportunity to examine the performance and capability of a diverse set of currently available PAM-equipped underwater gliders, and we welcome community input into test design and assessment metrics. Results will be made publicly available to inform future research and development.\nThere may be unfunded opportunities for participation to compare other systems, and we may be able to provide logistical support.",
     "crumbs": [
       "Home"
-    ]
-  },
-  {
-    "objectID": "content/contactUs.html",
-    "href": "content/contactUs.html",
-    "title": "Contact Us",
-    "section": "",
-    "text": "Under Construction\nInstructions for submitting submitting an inquiry will be added soon! –&gt; Give instructions for submitting an inquiry through the Github Issues\nDo you have an acoustic glider system you’d like to test as part of this effort?\nWe cannot currently offer funding to participate, but may be able to provide logistic support- lab space for preparation, vessels for glider deployment and/or recoveries, if associated with our efforts.\nDo you have suggestions for metrics that would help evaluate PAM-equipped glider options? In addition to comparing general system and sampling specifications, we have planned to assess a diverse set of survey, data quality, and acoustic detection metrics across each system Please follow this link to fill out our Google Form to include additional metrics (you can fill out form as many times as you like): Metrics Google Form Link\nDo you have data from other regions or systems that could contribute to our hardware comparison?\nAlthough we are focusing our field efforts on two regions, we are interested in collaborating to include data from other systems and areas if you have data you are willing to share.",
-    "crumbs": [
-      "Home",
-      "Contact Us"
     ]
   },
   {
@@ -106,6 +95,17 @@
     "crumbs": [
       "Home",
       "Gliders"
+    ]
+  },
+  {
+    "objectID": "content/Survey.html",
+    "href": "content/Survey.html",
+    "title": "Survey",
+    "section": "",
+    "text": "NMFS is pursuing tests of several passive acoustic equipped underwater gliders as part of its Uncrewed Systems Strategic Initiative, funded by the Inflation Reduction Act.\n\nNMFS will be carrying out performance testing across glider systems during two 2-week ‘glider rodeos’ planned for the U.S. west coast and Hawaii in 2025-26.\nNMFS-funded testing will include Slocum, Seaglider, OceanScout (Hefring) and SeaExplorer (Alseamar) platforms with DMONS2, WISPR, and Alseamar’s acoustic acquisition systems.\nA pre-designed survey path will provide for resampling of the same area by each glider platform over the 2 week effort. Glider performance and acoustic detection metrics will be measured for each system to enable comparison and inform future glider acquisitions and use by NMFS.",
+    "crumbs": [
+      "Home",
+      "Survey"
     ]
   }
 ]
