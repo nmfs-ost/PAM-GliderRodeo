@@ -4,7 +4,51 @@
     "href": "content/contactUs.html",
     "title": "Contact Us",
     "section": "",
-    "text": "Under Construction\nInstructions for submitting submitting an inquiry will be added soon! –&gt; Give instructions for submitting an inquiry through the Github Issues\nDo you have an acoustic glider system you’d like to test as part of this effort?\nWe cannot currently offer funding to participate, but may be able to provide logistic support- lab space for preparation, vessels for glider deployment and/or recoveries, if associated with our efforts.\nDo you have suggestions for metrics that would help evaluate PAM-equipped glider options? In addition to comparing general system and sampling specifications, we have planned to assess a diverse set of survey, data quality, and acoustic detection metrics across each system Please follow this link to fill out our Google Form to include additional metrics (you can fill out form as many times as you like): Metrics Google Form Link\nDo you have data from other regions or systems that could contribute to our hardware comparison?\nAlthough we are focusing our field efforts on two regions, we are interested in collaborating to include data from other systems and areas if you have data you are willing to share.",
+    "text": "Please follow the links below to contact us on any of these topics:",
+    "crumbs": [
+      "Home",
+      "Contact Us"
+    ]
+  },
+  {
+    "objectID": "content/contactUs.html#participate-in-glider-rodeo",
+    "href": "content/contactUs.html#participate-in-glider-rodeo",
+    "title": "Contact Us",
+    "section": "Participate in Glider Rodeo",
+    "text": "Participate in Glider Rodeo\nDo you have a PAM system, Glider, or analysis method you’d like to test as part of this effort? We cannot currently offer funding to participate, but may be able to provide logistic support- lab space for preparation, vessels for glider deployment and/or recoveries, if associated with our efforts.\nIf you are interested in participating in the Glider Rodeo, please fill out the Glider Rodeo Participation Form.",
+    "crumbs": [
+      "Home",
+      "Contact Us"
+    ]
+  },
+  {
+    "objectID": "content/contactUs.html#suggestion-for-glider-rodeo-metricsanalyses",
+    "href": "content/contactUs.html#suggestion-for-glider-rodeo-metricsanalyses",
+    "title": "Contact Us",
+    "section": "Suggestion for Glider Rodeo Metrics/Analyses",
+    "text": "Suggestion for Glider Rodeo Metrics/Analyses\nIn addition to comparing general system and sampling specifications, we have planned to assess a diverse set of survey, data quality, and acoustic detection metrics across each system. Do you have suggestions for metrics that would help evaluate PAM-equipped glider options?\nIf you have suggestions on metrics/analyses to consider for the Glider Rodeo, please fill out the Glider Rodeo Metrics form",
+    "crumbs": [
+      "Home",
+      "Contact Us"
+    ]
+  },
+  {
+    "objectID": "content/contactUs.html#new-technology",
+    "href": "content/contactUs.html#new-technology",
+    "title": "Contact Us",
+    "section": "New Technology",
+    "text": "New Technology\nGlider and PAM technology, as well as software and analytical methods to work with these technologies, are rapidly advancing and we have an interest in learning about developing or new technologies as they evolve. Are you involved with a new technology?\nIf you are developing a new technology that you would like to share with our community of scientists, please complete the New Technology Form",
+    "crumbs": [
+      "Home",
+      "Contact Us"
+    ]
+  },
+  {
+    "objectID": "content/contactUs.html#pam-glider-data-from-other-regions",
+    "href": "content/contactUs.html#pam-glider-data-from-other-regions",
+    "title": "Contact Us",
+    "section": "PAM-Glider data from other regions",
+    "text": "PAM-Glider data from other regions\nAlthough we are focusing our field efforts on two regions, we are interested in collaborating to include data from other systems and areas if you have data you are willing to share.\nIf you have PAM-glider data that you feel would be useful analyzing with our Glider Rodeo Data, please complete the Alternative Data Form",
     "crumbs": [
       "Home",
       "Contact Us"
