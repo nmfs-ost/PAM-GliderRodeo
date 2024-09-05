@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nmfs-pam-glider.github.io/GliderRodeo/content/contactUs.html</loc>
-    <lastmod>2024-09-05T15:27:08.868Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-pam-glider.github.io/GliderRodeo/content/Metrics.html</loc>
-    <lastmod>2024-09-05T15:27:08.860Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-pam-glider.github.io/GliderRodeo/index.html</loc>
-    <lastmod>2024-09-05T15:27:08.924Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-pam-glider.github.io/GliderRodeo/content/Gliders.html</loc>
-    <lastmod>2024-09-05T15:27:08.860Z</lastmod>
+    <lastmod>2024-09-05T17:34:47.863Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-pam-glider.github.io/GliderRodeo/content/Survey.html</loc>
-    <lastmod>2024-09-05T15:27:08.860Z</lastmod>
+    <lastmod>2024-09-05T17:34:47.855Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-pam-glider.github.io/GliderRodeo/content/Gliders.html</loc>
+    <lastmod>2024-09-05T17:34:47.855Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-pam-glider.github.io/GliderRodeo/index.html</loc>
+    <lastmod>2024-09-05T17:34:47.915Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-pam-glider.github.io/GliderRodeo/content/Metrics.html</loc>
+    <lastmod>2024-09-05T17:34:47.855Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-pam-glider.github.io/GliderRodeo/content/infoSharing.html</loc>
+    <lastmod>2024-09-05T17:34:47.911Z</lastmod>
   </url>
 </urlset>
