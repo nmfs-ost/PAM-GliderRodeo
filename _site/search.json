@@ -11,7 +11,7 @@
     "href": "content/contactUs.html",
     "title": "Contact Us",
     "section": "",
-    "text": "Under Construction\nInstructions for submitting submitting an inquiry will be added soon! –&gt; Give instructions for submitting an inquiry through the Github Issues\nDo you have an acoustic glider system you’d like to test as part of this effort?\nWe cannot currently offer funding to participate, but may be able to provide logistic support- lab space for preparation, vessels for glider deployment and/or recoveries, if associated with our efforts.\nDo you have suggestions for metrics that would help evaluate PAM-equipped glider options? In addition to comparing general system and sampling specifications, we have planned to assess a diverse set of survey, data quality, and acoustic detection metrics across each system Please follow this link to fill out our Google Form to include additional metrics (you can fill out form as many times as you like): Metrics Google Form Link\nDo you have data from other regions or systems that could contribute to our hardware comparison?\nAlthough we are focusing our field efforts on two regions, we are interested in collaborating to include data from other systems and areas if you have data you are willing to share."
+    "text": "Please follow the links below to contact us on any of these topics:"
   },
   {
     "objectID": "content/Metrics.html",
@@ -25,7 +25,7 @@
     "href": "content/Gliders.html",
     "title": "Gliders",
     "section": "",
-    "text": "The primary contemporary gliders with PAM capacity include Slocum, Seagliders, Ocean Scout, and SeaExporer. We understand that technology is rapidly changing, and even if we are unable to directly include additional platforms, we hope to learn more about technologies currently in development. In addition, there may be (unfunded) opportunities for including alternative platforms within the Glider Rodeo effort (Please see section on ‘Inquiries’).\n\n\nNOAA’s Southwest Fisheries Science Center began deploying Slocum gliders to study Antarctic krill in 2018, and in 2025 they will expand their glider program with PAM-equipped gliders to study marine mammals off the U.S. West coast. Slocum Gliders are modular, and two different PAM systems will be tested: the DMON (developed by WHOI) and WISPR (Embedded Ocean Systems).\n\n\n\nSeagliders are buoyancy driven autonomous underwater vehicles developed at the University of Washington. Through a partnership with Dave Mellinger at Oregon State University, NOAA researchers at Pacific Islands Fisheries Science Center has been testing the passive acoustic capabilities of these gliders to conduct marine mammal monitoring off Hawaii. They will continue this collaboration in 2025 as PIFSC builds out their own glider lab with SeaGliders with onboard WISPR acoustic processors. Seaglider support resources can be found here, and WISPR 2.0 specifications can be found here. Note that WISPR 3.0 is under development.\n\n\n\nThe Ocean Scout is a small glider developed as a ‘user friendly’ PAM-equipped glider. They are much smaller and require less training and expertise to use. Southwest Fisheries Science Center has procured two Ocean Scouts for testing and for specific scientific research efforts. The Ocean Scout specifications can be found here.\n\n\n\nThe SeaExplorer was developed by the French company Alcen-Alseamar. Alseamar SeaExplorers are not yet available for purchase in the United States, but the company offers their gliders as a service, with mission planning, piloting, and data delivery. We will include SeaExplorers in our Glider Rodeo (as a service). SeaExplorer specifications can be found here.\n\n\n\nWe understand that these technologies are rapidly developing, and we’d love to hear about new developments. Please contact us under the ‘Inquiries’ page."
+    "text": "The primary contemporary gliders with PAM capacity include Slocum, Seagliders, Ocean Scout, and SeaExporer. We understand that technology is rapidly changing, and even if we are unable to directly include additional platforms, we hope to learn more about technologies currently in development. In addition, there may be (unfunded) opportunities for including alternative platforms within the Glider Rodeo effort (Please see section on ‘Inquiries’).\n\n\nNOAA’s Southwest Fisheries Science Center began deploying Slocum gliders to study Antarctic krill in 2018, and in 2025 they will expand their glider program with PAM-equipped gliders to study marine mammals off the U.S. West coast. Slocum Gliders are modular, and two different PAM systems will be tested: the DMON (developed by WHOI) and WISPR (Embedded Ocean Systems).\n\n\n\nSeagliders are buoyancy driven autonomous underwater vehicles developed at the University of Washington. Through a partnership with Dave Mellinger at Oregon State University, NOAA researchers at Pacific Islands Fisheries Science Center has been testing the passive acoustic capabilities of these gliders to conduct marine mammal monitoring off Hawaii. They will continue this collaboration in 2025 as PIFSC builds out their own glider lab with SeaGliders with onboard WISPR acoustic processors. Seaglider support resources can be found here, and WISPR 2.0 specifications can be found here. Note that WISPR 3.0 is under development.\n\n\n\nThe Ocean Scout is a small glider developed as a ‘user friendly’ PAM-equipped glider. They are much smaller and require less training and expertise to use. Southwest Fisheries Science Center has procured two Ocean Scouts for testing and for specific scientific research efforts. The Ocean Scout specifications can be found here.\n\n\n\nThe SeaExplorer was developed by the French company Alcen-Alseamar. Alseamar SeaExplorers are not yet available for purchase in the United States, but the company offers their gliders as a service, with mission planning, piloting, and data delivery. We will include SeaExplorers in our Glider Rodeo (as a service). SeaExplorer specifications can be found here.\n\n\n\nWe understand that these technologies are rapidly developing, and we’d love to hear about new developments. Please contact us under the ‘Contact Us’ page."
   },
   {
     "objectID": "content/Gliders.html#slocum-gliders-teledyne-webb",
@@ -60,7 +60,7 @@
     "href": "content/Gliders.html#developing-technology",
     "title": "Gliders",
     "section": "",
-    "text": "We understand that these technologies are rapidly developing, and we’d love to hear about new developments. Please contact us under the ‘Inquiries’ page."
+    "text": "We understand that these technologies are rapidly developing, and we’d love to hear about new developments. Please contact us under the ‘Contact Us’ page."
   },
   {
     "objectID": "content/Survey.html",
@@ -68,5 +68,61 @@
     "title": "Survey",
     "section": "",
     "text": "NMFS is pursuing tests of several passive acoustic equipped underwater gliders as part of its Uncrewed Systems Strategic Initiative, funded by the Inflation Reduction Act.\n\nNMFS will be carrying out performance testing across glider systems during two 2-week ‘glider rodeos’ planned for the U.S. west coast and Hawaii in 2025-26.\nNMFS-funded testing will include Slocum, Seaglider, OceanScout (Hefring) and SeaExplorer (Alseamar) platforms with DMONS2, WISPR, and Alseamar’s acoustic acquisition systems.\nA pre-designed survey path will provide for resampling of the same area by each glider platform over the 2 week effort. Glider performance and acoustic detection metrics will be measured for each system to enable comparison and inform future glider acquisitions and use by NMFS."
+  },
+  {
+    "objectID": "content/infoSharing.html",
+    "href": "content/infoSharing.html",
+    "title": "Information Sharing",
+    "section": "",
+    "text": "What is Open Science? The goals of ‘Open Science’ are to democratize access to research, promote equitable resource distribution, foster accountability and trustworthiness, accelerate self-correction, and improve rigor and reproducibility (see Open Science for more info)(https://www.cos.io/open-science){target=“_blank”}\nBelow we outline the ways in which our PAM-Glider program aims to embrace Open Science. This is a work in progress, and we welcome suggestions in how we can improve on these efforts."
+  },
+  {
+    "objectID": "content/infoSharing.html#open-educational-resources",
+    "href": "content/infoSharing.html#open-educational-resources",
+    "title": "Information Sharing",
+    "section": "Open Educational Resources",
+    "text": "Open Educational Resources\n\nBioacoustics Stack Exchange\nStack Exchange is a network of question and answer websites on topics in diverse fields. The Bioacoustics Stack Exchange site was created by our PAM community, for our PAM community. Answers to questions are crowd-sourced from the community, and both questions and answers are archived and publicly accessible via the site or by a search engine. For more information, visit the Bioacoustics Stack Exchange.\n\n\nZotero Group Library\nZotero is a free, open-source reference management tool that helps users collect, organize, cite, and share research resources. A Zotero Group Library is a shared library that allows users to collaboration on research projects by sharing and managing references. We have developed the following Zotero Group Libraries to allow users to identify and share related references. To join and contribute references, first create a Zotero account and request to be a member. These libraries are by no means complete, and our intent is to build a collaborative resource for the broader community of researchers, students, and practicioners.\nPAM-Glider Group Library\nSoundscape Group Library"
+  },
+  {
+    "objectID": "content/infoSharing.html#research-compendium",
+    "href": "content/infoSharing.html#research-compendium",
+    "title": "Information Sharing",
+    "section": "Research Compendium",
+    "text": "Research Compendium\nA research compendium is a collection of all the digital components related to a research project, including data, code, text (like protocols and reports), and metadata. A research compendium provides a comprehensive package that allows others to fully reproduce research findings by accessing all the elements involved in the study process.\nWe will make a concerted effort to create research compendiums for all PAM-Glider research going forward, and to provide a list of links, below."
+  },
+  {
+    "objectID": "content/infoSharing.html#open-data",
+    "href": "content/infoSharing.html#open-data",
+    "title": "Information Sharing",
+    "section": "Open Data",
+    "text": "Open Data\nNOAA Fisheries’ Passive Acoustics Data is archived at the National Centers for Environmental Information (NCEI) and archived data can be accessed via the NCEI Passive Acoustic Data web portal.\nDetection data for a subset of NOAA Fisheries data can be viewed at the Passive Acoustic Cetacaean Map (PACM), developed at Northeast Fisheries Science Center. At present, the bulk of these data are from the U.S. East Coast, but an expanded PACM is in development. More information can be found at the PACM website."
+  },
+  {
+    "objectID": "content/contactUs.html#participate-in-glider-rodeo",
+    "href": "content/contactUs.html#participate-in-glider-rodeo",
+    "title": "Contact Us",
+    "section": "Participate in Glider Rodeo",
+    "text": "Participate in Glider Rodeo\nDo you have a PAM system, Glider, or analysis method you’d like to test as part of this effort? We cannot currently offer funding to participate, but may be able to provide logistic support- lab space for preparation, vessels for glider deployment and/or recoveries, if associated with our efforts.\nIf you are interested in participating in the Glider Rodeo, please fill out the Glider Rodeo Participation Form."
+  },
+  {
+    "objectID": "content/contactUs.html#suggestion-for-glider-rodeo-metricsanalyses",
+    "href": "content/contactUs.html#suggestion-for-glider-rodeo-metricsanalyses",
+    "title": "Contact Us",
+    "section": "Suggestion for Glider Rodeo Metrics/Analyses",
+    "text": "Suggestion for Glider Rodeo Metrics/Analyses\nIn addition to comparing general system and sampling specifications, we have planned to assess a diverse set of survey, data quality, and acoustic detection metrics across each system. Do you have suggestions for metrics that would help evaluate PAM-equipped glider options?\nIf you have suggestions on metrics/analyses to consider for the Glider Rodeo, please fill out the Glider Rodeo Metrics form"
+  },
+  {
+    "objectID": "content/contactUs.html#new-technology",
+    "href": "content/contactUs.html#new-technology",
+    "title": "Contact Us",
+    "section": "New Technology",
+    "text": "New Technology\nGlider and PAM technology, as well as software and analytical methods to work with these technologies, are rapidly advancing and we have an interest in learning about developing or new technologies as they evolve. Are you involved with a new technology?\nIf you are developing a new technology that you would like to share with our community of scientists, please complete the New Technology Form"
+  },
+  {
+    "objectID": "content/contactUs.html#pam-glider-data-from-other-regions",
+    "href": "content/contactUs.html#pam-glider-data-from-other-regions",
+    "title": "Contact Us",
+    "section": "PAM-Glider data from other regions",
+    "text": "PAM-Glider data from other regions\nAlthough we are focusing our field efforts on two regions, we are interested in collaborating to include data from other systems and areas if you have data you are willing to share.\nIf you have PAM-glider data that you feel would be useful analyzing with our Glider Rodeo Data, please complete the Alternative Data Form"
   }
 ]
