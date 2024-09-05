@@ -44,6 +44,8 @@ website:
             text: Gliders
           - href: content/Metrics.qmd
             text: Metrics
+          - href: content/infoSharing.qmd
+            text: Information Sharing
           - href: content/contactUs.qmd
             text: Contact Us
 
