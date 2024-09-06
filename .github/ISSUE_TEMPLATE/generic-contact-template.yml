@@ -1,0 +1,50 @@
+name: Generic Contact Template
+description:  Template to allow interested parties to contact us about topics not covered by other templates
+title: "Contact Us: "
+labels: "community interest"
+assignees:
+  - shannonrankin
+  - sfregosi
+  - eoleson
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Contact us!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: comments
+    attributes:
+      label: Questions, comments, and suggestions
+      description: What would you like to tell us?
+      placeholder: Fill here...
+    validations:
+      required: true
+  - type: dropdown
+    id: user-type
+    attributes:
+      label: User type
+      description: What kind of glider or PAM user are you?
+      options:
+        - glider only
+        - PAM only
+        - gliders and PAM
+        - neither
+      default: 4
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com). 
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
