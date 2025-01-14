@@ -36,6 +36,7 @@ website:
     contents:
       - href: index.qmd
         text: Home
+      # - section: "PAM-Glider Rodeo"
         contents:
           - href: content/Survey.qmd
             text: Survey
@@ -43,6 +44,8 @@ website:
             text: Gliders
           - href: content/Metrics.qmd
             text: Metrics
+          - href: content/infoSharing.qmd
+            text: Information Sharing
           - href: content/contactUs.qmd
             text: Contact Us
 

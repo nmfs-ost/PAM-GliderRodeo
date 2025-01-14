@@ -6,7 +6,7 @@ During the glider rodeo, we will identify and define a series of metrics to be c
 
 A preliminary set of metrics for each category are provided below. These are preliminary, and we welcome alternative definitions or calculations for each metric, as well as alternative metrics to consider.
 
-If you have metrics you would like to recommend, please submit this via this [google form](https://forms.gle/tYZY8YjMZH11QhiA6){target="_blank"} (related references and citations are appreciated).
+If you have metrics you would like to recommend, please submit this via this [google form](https://forms.gle/mqc9muNLneSgMtiQ8){target="_blank"} (related references and citations are appreciated).
 
 \[Insert Table of Survey Metrics\]
 

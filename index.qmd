@@ -1,9 +1,3 @@
----
-title: "PAM-Glider Rodeo"
-subtitle: "Field Survey of PAM-equipped Gliders"
-page-layout: full
-toc: false
----
 
 ![](content/figs/GliderRodeoText.JPG){width="204" height="51"}
 
