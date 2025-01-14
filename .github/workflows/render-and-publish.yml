@@ -2,8 +2,8 @@ on:
   push:
     branches: 
         - main
-    paths:
-        - 'content/**'
+#    paths:
+#        - 'content/**'
 
 name: Render and Publish
 
