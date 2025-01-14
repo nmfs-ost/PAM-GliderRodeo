@@ -7,7 +7,7 @@ website:
   site-url: "https://nmfs-pam-glider.github.io/GliderRodeo/"
   repo-url: "https://github.com/NMFS-PAM-Glider/GliderRodeo"
   repo-actions: [edit, source, issue]
-  favicon: content/figs/favicon.ico
+  favicon: content/figs/GliderRodeo.png
   search: true
   
   
@@ -18,7 +18,7 @@ website:
   sidebar:
     background: "#D9E3E4"
     logo: "https://upload.wikimedia.org/wikipedia/commons/7/79/NOAA_logo.svg"
-    favicon: content/figs/favicon.ico
+    favicon: content/figs/GliderRodeo.png
     pinned: true
     align: center
     tools: 
