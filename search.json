@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "NOAA Fisheries PAM-Glider Rodeo",
-    "section": "",
-    "text": "NOAA Fisheries’ Passive Acoustic Underwater Glider Field Comparison\nAs part of a strategic goal to invest in passive acoustic monitoring using gliders, NOAA Fisheries is pursuing field tests of several underwater gliders equipped with passive acoustic monitoring (PAM) systems during two 2-week ‘glider rodeos’ planned for the U.S. west coast and Hawaii in 2025-26.\nA pre-designed survey path will provide for resampling of the same area by each glider over each 2-week effort to maximize spatial and temporal overlap. Glider performance and acoustic recording and detection metrics will be measured for each system to enable comparison and inform future glider acquisitions and use by NOAA Fisheries.\nThis is a unique opportunity to examine the performance and capability of a diverse set of currently available PAM-equipped underwater gliders, and we welcome community input into test design and assessment metrics. Results will be made publicly available to inform future research and development.\nThere may be unfunded opportunities for participation to compare other systems, and we may be able to provide logistical support.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "content/Survey.html",
-    "href": "content/Survey.html",
-    "title": "Survey",
-    "section": "",
-    "text": "NMFS is pursuing tests of several passive acoustic equipped underwater gliders as part of its Uncrewed Systems Strategic Initiative, funded by the Inflation Reduction Act.\n\nNMFS will be carrying out performance testing across glider systems during two 2-week ‘glider rodeos’ planned for the U.S. west coast and Hawaii in 2025-26.\nNMFS-funded testing will include Slocum, Seaglider, OceanScout (Hefring) and SeaExplorer (Alseamar) platforms with DMONS2, WISPR, and Alseamar’s acoustic acquisition systems.\nA pre-designed survey path will provide for resampling of the same area by each glider platform over the 2 week effort. Glider performance and acoustic detection metrics will be measured for each system to enable comparison and inform future glider acquisitions and use by NMFS.",
-    "crumbs": [
-      "Home",
-      "Survey"
-    ]
-  },
-  {
     "objectID": "content/contactUs.html",
     "href": "content/contactUs.html",
     "title": "Contact Us",
@@ -76,47 +55,14 @@
     ]
   },
   {
-    "objectID": "content/infoSharing.html",
-    "href": "content/infoSharing.html",
-    "title": "Information Sharing",
+    "objectID": "content/Survey.html",
+    "href": "content/Survey.html",
+    "title": "Survey",
     "section": "",
-    "text": "What is Open Science? The goals of ‘Open Science’ are to democratize access to research, promote equitable resource distribution, foster accountability and trustworthiness, accelerate self-correction, and improve rigor and reproducibility (see Open Science for more info)(https://www.cos.io/open-science){target=“_blank”}\nBelow we outline the ways in which our PAM-Glider program aims to embrace Open Science. This is a work in progress, and we welcome suggestions in how we can improve on these efforts.",
+    "text": "NMFS is pursuing tests of several passive acoustic equipped underwater gliders as part of its Uncrewed Systems Strategic Initiative, funded by the Inflation Reduction Act.\n\nNMFS will be carrying out performance testing across glider systems during two 2-week ‘glider rodeos’ planned for the U.S. west coast and Hawaii in 2025-26.\nNMFS-funded testing will include Slocum, Seaglider, OceanScout (Hefring) and SeaExplorer (Alseamar) platforms with DMONS2, WISPR, and Alseamar’s acoustic acquisition systems.\nA pre-designed survey path will provide for resampling of the same area by each glider platform over the 2 week effort. Glider performance and acoustic detection metrics will be measured for each system to enable comparison and inform future glider acquisitions and use by NMFS.",
     "crumbs": [
       "Home",
-      "Information Sharing"
-    ]
-  },
-  {
-    "objectID": "content/infoSharing.html#open-educational-resources",
-    "href": "content/infoSharing.html#open-educational-resources",
-    "title": "Information Sharing",
-    "section": "Open Educational Resources",
-    "text": "Open Educational Resources\n\nBioacoustics Stack Exchange\nStack Exchange is a network of question and answer websites on topics in diverse fields. The Bioacoustics Stack Exchange site was created by our PAM community, for our PAM community. Answers to questions are crowd-sourced from the community, and both questions and answers are archived and publicly accessible via the site or by a search engine. For more information, visit the Bioacoustics Stack Exchange.\n\n\nZotero Group Library\nZotero is a free, open-source reference management tool that helps users collect, organize, cite, and share research resources. A Zotero Group Library is a shared library that allows users to collaboration on research projects by sharing and managing references. We have developed the following Zotero Group Libraries to allow users to identify and share related references. To join and contribute references, first create a Zotero account and request to be a member. These libraries are by no means complete, and our intent is to build a collaborative resource for the broader community of researchers, students, and practicioners.\nPAM-Glider Group Library\nSoundscape Group Library",
-    "crumbs": [
-      "Home",
-      "Information Sharing"
-    ]
-  },
-  {
-    "objectID": "content/infoSharing.html#research-compendium",
-    "href": "content/infoSharing.html#research-compendium",
-    "title": "Information Sharing",
-    "section": "Research Compendium",
-    "text": "Research Compendium\nA research compendium is a collection of all the digital components related to a research project, including data, code, text (like protocols and reports), and metadata. A research compendium provides a comprehensive package that allows others to fully reproduce research findings by accessing all the elements involved in the study process.\nWe will make a concerted effort to create research compendiums for all PAM-Glider research going forward, and to provide a list of links, below.",
-    "crumbs": [
-      "Home",
-      "Information Sharing"
-    ]
-  },
-  {
-    "objectID": "content/infoSharing.html#open-data",
-    "href": "content/infoSharing.html#open-data",
-    "title": "Information Sharing",
-    "section": "Open Data",
-    "text": "Open Data\nNOAA Fisheries’ Passive Acoustics Data is archived at the National Centers for Environmental Information (NCEI) and archived data can be accessed via the NCEI Passive Acoustic Data web portal.\nDetection data for a subset of NOAA Fisheries data can be viewed at the Passive Acoustic Cetacaean Map (PACM), developed at Northeast Fisheries Science Center. At present, the bulk of these data are from the U.S. East Coast, but an expanded PACM is in development. More information can be found at the PACM website.",
-    "crumbs": [
-      "Home",
-      "Information Sharing"
+      "Survey"
     ]
   },
   {
@@ -128,6 +74,16 @@
     "crumbs": [
       "Home",
       "Metrics"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "NOAA Fisheries PAM-Glider Rodeo",
+    "section": "",
+    "text": "NOAA Fisheries’ Passive Acoustic Underwater Glider Field Comparison\nAs part of a strategic goal to invest in passive acoustic monitoring using gliders, NOAA Fisheries is pursuing field tests of several underwater gliders equipped with passive acoustic monitoring (PAM) systems during two 2-week ‘glider rodeos’ planned for the U.S. west coast and Hawaii in 2025-26.\nA pre-designed survey path will provide for resampling of the same area by each glider over each 2-week effort to maximize spatial and temporal overlap. Glider performance and acoustic recording and detection metrics will be measured for each system to enable comparison and inform future glider acquisitions and use by NOAA Fisheries.\nThis is a unique opportunity to examine the performance and capability of a diverse set of currently available PAM-equipped underwater gliders, and we welcome community input into test design and assessment metrics. Results will be made publicly available to inform future research and development.\nThere may be unfunded opportunities for participation to compare other systems, and we may be able to provide logistical support.",
+    "crumbs": [
+      "Home"
     ]
   },
   {
@@ -194,6 +150,50 @@
     "crumbs": [
       "Home",
       "Gliders"
+    ]
+  },
+  {
+    "objectID": "content/infoSharing.html",
+    "href": "content/infoSharing.html",
+    "title": "Information Sharing",
+    "section": "",
+    "text": "What is Open Science? The goals of ‘Open Science’ are to democratize access to research, promote equitable resource distribution, foster accountability and trustworthiness, accelerate self-correction, and improve rigor and reproducibility (see Open Science for more info)(https://www.cos.io/open-science){target=“_blank”}\nBelow we outline the ways in which our PAM-Glider program aims to embrace Open Science. This is a work in progress, and we welcome suggestions in how we can improve on these efforts.",
+    "crumbs": [
+      "Home",
+      "Information Sharing"
+    ]
+  },
+  {
+    "objectID": "content/infoSharing.html#open-educational-resources",
+    "href": "content/infoSharing.html#open-educational-resources",
+    "title": "Information Sharing",
+    "section": "Open Educational Resources",
+    "text": "Open Educational Resources\n\nBioacoustics Stack Exchange\nStack Exchange is a network of question and answer websites on topics in diverse fields. The Bioacoustics Stack Exchange site was created by our PAM community, for our PAM community. Answers to questions are crowd-sourced from the community, and both questions and answers are archived and publicly accessible via the site or by a search engine. For more information, visit the Bioacoustics Stack Exchange.\n\n\nZotero Group Library\nZotero is a free, open-source reference management tool that helps users collect, organize, cite, and share research resources. A Zotero Group Library is a shared library that allows users to collaboration on research projects by sharing and managing references. We have developed the following Zotero Group Libraries to allow users to identify and share related references. To join and contribute references, first create a Zotero account and request to be a member. These libraries are by no means complete, and our intent is to build a collaborative resource for the broader community of researchers, students, and practicioners.\nPAM-Glider Group Library\nSoundscape Group Library",
+    "crumbs": [
+      "Home",
+      "Information Sharing"
+    ]
+  },
+  {
+    "objectID": "content/infoSharing.html#research-compendium",
+    "href": "content/infoSharing.html#research-compendium",
+    "title": "Information Sharing",
+    "section": "Research Compendium",
+    "text": "Research Compendium\nA research compendium is a collection of all the digital components related to a research project, including data, code, text (like protocols and reports), and metadata. A research compendium provides a comprehensive package that allows others to fully reproduce research findings by accessing all the elements involved in the study process.\nWe will make a concerted effort to create research compendiums for all PAM-Glider research going forward, and to provide a list of links, below.",
+    "crumbs": [
+      "Home",
+      "Information Sharing"
+    ]
+  },
+  {
+    "objectID": "content/infoSharing.html#open-data",
+    "href": "content/infoSharing.html#open-data",
+    "title": "Information Sharing",
+    "section": "Open Data",
+    "text": "Open Data\nNOAA Fisheries’ Passive Acoustics Data is archived at the National Centers for Environmental Information (NCEI) and archived data can be accessed via the NCEI Passive Acoustic Data web portal.\nDetection data for a subset of NOAA Fisheries data can be viewed at the Passive Acoustic Cetacaean Map (PACM), developed at Northeast Fisheries Science Center. At present, the bulk of these data are from the U.S. East Coast, but an expanded PACM is in development. More information can be found at the PACM website.",
+    "crumbs": [
+      "Home",
+      "Information Sharing"
     ]
   }
 ]
