@@ -2,7 +2,7 @@
 
 Repository associated with the NMFS PAM-Glider "Glider Rodeo", a collaborative in-water investigation into contemporary PAM-glider systems
 
-### **Link to Glider** Rodeo Website\[coming soon!\]
+### **Link to Glider Rodeo Website:** [https://nmfs-pam-glider.github.io/GliderRodeo/](https://nmfs-pam-glider.github.io/GliderRodeo/)
 
 ### **How to Cite** \[TBD\]
 
