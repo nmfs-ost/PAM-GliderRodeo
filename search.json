@@ -22,17 +22,6 @@
     ]
   },
   {
-    "objectID": "content/contactUs.html#suggestion-for-glider-rodeo-metricsanalyses",
-    "href": "content/contactUs.html#suggestion-for-glider-rodeo-metricsanalyses",
-    "title": "Contact Us",
-    "section": "Suggestion for Glider Rodeo Metrics/Analyses",
-    "text": "Suggestion for Glider Rodeo Metrics/Analyses\nIn addition to comparing general system and sampling specifications, we have planned to assess a diverse set of survey, data quality, and acoustic detection metrics across each system. Do you have suggestions for metrics that would help evaluate PAM-equipped glider options?\nIf you have suggestions on metrics/analyses to consider for the Glider Rodeo, please fill out the Glider Rodeo Metrics form",
-    "crumbs": [
-      "Home",
-      "Contact Us"
-    ]
-  },
-  {
     "objectID": "content/contactUs.html#new-technology",
     "href": "content/contactUs.html#new-technology",
     "title": "Contact Us",
@@ -70,7 +59,7 @@
     "href": "content/Metrics.html",
     "title": "Metrics",
     "section": "",
-    "text": "During the glider rodeo, we will identify and define a series of metrics to be calculated for each platform. These metrics will provide a means of comparison to identify strengths and limitations, as well as ranges of performance. The metrics include (1) Operational metrics, (2) Passive acoustic metrics, and (3) Resource metrics.\nA preliminary set of metrics for each category are provided below. These are preliminary, and we welcome alternative definitions or calculations for each metric, as well as alternative metrics to consider.\nIf you have metrics you would like to recommend, please submit this via this google form (related references and citations are appreciated).\n[Insert Table of Survey Metrics]\n[Insert Table of Data Quality Metrics]\n[Inset Table of Acoustic Detection Metrics]",
+    "text": "During the glider rodeo, we will identify and define a series of metrics to be calculated for each platform. These metrics will provide a means of comparison to identify strengths and limitations, as well as ranges of performance. The metrics include:\n\nOperational metrics: Measures related to active operations and routine functioning of the platform and systems (including glider platform, oceanographic sensors, battery/power, satellite transmissions, software interface, and glider piloting).\nPassive acoustic metrics: Measure related to assessing detection, classification, and localization of animals.\nSoundscape Metrics: Measures related to assessing ambient sound, including acoustic sensitivity/calibration, self-noise, available data, and ability to measure soundscape in hybrid millidecade. There is a natural crossover between soundscape and bioacoustics measures; soundscape metrics will be all PAM metrics not directly associated with animal sounds.\nResource metrics: measures of resources (personnel, expertise, equipment, materials, time, budget) needed to implement the technology.\n\nWe are actively working with experts to develop a suite of metrics that provide a means of assessing each platform that can be completed with the available resources. We will make these metrics (including their definition) publicly accessible here when they are available.",
     "crumbs": [
       "Home",
       "Metrics"
