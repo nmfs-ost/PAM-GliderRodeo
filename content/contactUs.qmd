@@ -11,11 +11,6 @@ Do you have a PAM system, Glider, or analysis method you’d like to test as par
 If you are interested in participating in the Glider Rodeo, please fill out the [Glider Rodeo Participation Form](https://forms.gle/pbHmbKHBMFVvRXto9){target="_blank"}.
 
 
-## Suggestion for Glider Rodeo Metrics/Analyses
-In addition to comparing general system and sampling specifications, we have planned to assess a diverse set of survey, data quality, and acoustic detection metrics across each system. Do you have suggestions for metrics that would help evaluate PAM-equipped glider options?
-
-If you have suggestions on metrics/analyses to consider for the Glider Rodeo, please fill out the [Glider Rodeo Metrics form](https://forms.gle/gMRRGH2vrGxFwtvK6){target="_blank"}
-
 
 ## New Technology
 Glider and PAM technology, as well as software and analytical methods to work with these technologies, are rapidly advancing and we have an interest in learning about developing or new technologies as they evolve. Are you involved with a new technology?
